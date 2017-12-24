@@ -29,8 +29,14 @@ The output should contain exactly one fact of the form violations(V), where V is
 
 Examples
 
-Input: people(2). locations(4). preferences(4).  order(1, 1, 2). order(1, 2, 4). order(2, 1, 3). order(2, 3, 4). 	            	          Output: violations(0). 
+Input: people(2). locations(4). preferences(4).  order(1, 1, 2). order(1, 2, 4). order(2, 1, 3). order(2, 3, 4). 	          Output: violations(0). 
           
 Input: people(2). locations(3). preferences(4).  order(1, 1, 2). order(1, 2, 3). order(2, 3, 2). order(2, 2, 1).
 Output: violations(3). 
 
+##### To run the program ####
+a) Open XSB Prolog window. 
+b) Load the program file.
+c) Write your prolog inputs in the program file.
+d) Run "violations(X)."
+e) The output will appear.
