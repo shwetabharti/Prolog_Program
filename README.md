@@ -2,6 +2,7 @@
 Prolog Programming Contest 2017 - Tourism-1 
 
 ##### Problem Statement #####
+#### https://sites.google.com/site/prologcontest2017/problem-5 ####
 Tourism 1
 
 (file name: tourism1.pl)
